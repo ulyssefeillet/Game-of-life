@@ -1,0 +1,12 @@
+C:\Users\ulyss\source\repos\GameOfLife1\GameOfLife1\bin\Debug\GameOfLife1.exe.config
+C:\Users\ulyss\source\repos\GameOfLife1\GameOfLife1\bin\Debug\GameOfLife1.exe
+C:\Users\ulyss\source\repos\GameOfLife1\GameOfLife1\bin\Debug\GameOfLife1.pdb
+C:\Users\ulyss\source\repos\GameOfLife1\GameOfLife1\bin\Debug\GameOfLife1.xml
+C:\Users\ulyss\source\repos\GameOfLife1\GameOfLife1\obj\Debug\GameOfLife1.vbprojAssemblyReference.cache
+C:\Users\ulyss\source\repos\GameOfLife1\GameOfLife1\obj\Debug\GameOfLife1.Form1.resources
+C:\Users\ulyss\source\repos\GameOfLife1\GameOfLife1\obj\Debug\GameOfLife1.Resources.resources
+C:\Users\ulyss\source\repos\GameOfLife1\GameOfLife1\obj\Debug\GameOfLife1.vbproj.GenerateResource.cache
+C:\Users\ulyss\source\repos\GameOfLife1\GameOfLife1\obj\Debug\GameOfLife1.vbproj.CoreCompileInputs.cache
+C:\Users\ulyss\source\repos\GameOfLife1\GameOfLife1\obj\Debug\GameOfLife1.exe
+C:\Users\ulyss\source\repos\GameOfLife1\GameOfLife1\obj\Debug\GameOfLife1.xml
+C:\Users\ulyss\source\repos\GameOfLife1\GameOfLife1\obj\Debug\GameOfLife1.pdb

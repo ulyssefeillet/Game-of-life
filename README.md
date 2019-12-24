@@ -35,4 +35,4 @@ Cette contrainte sera un aspect important de l’évaluation.
 D–Pour aller plus loinTester des configurations initiales et des règles qui permettent d’obtenir différentes structures (structure  stable,  oscillateur,  vaisseau,  puffeurs,  canons...),  comme  indiqué  dans https://fr.wikipedia.org/wiki/Jeu_de_la_vie.
 
 ## Démo
-![Démo](./gameoflife.gif "Démo")
+![Video](./gameoflife.gif "Démo")

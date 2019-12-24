@@ -36,3 +36,4 @@ D–Pour aller plus loinTester des configurations initiales et des règles qui p
 
 ## Démo
 ![Video](./gameoflife.mp4 "Démo")
+https://youtu.be/SoQnryFk_lk
